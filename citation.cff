@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+
+title: "Lecture Notes for Probabilistic Tsunami Risk Analysis"
+
+message: "If you use these lecture notes, please cite them using the metadata below."
+
+type: book
+
+authors:
+  - family-names: "Jalayer"
+    given-names: "Fatemeh"
+
+license: "CC-BY-NC-ND-4.0"
+
+repository-code: "https://github.com/eurotsunamirisk/PTRALectureNotes"
+
+version: "1.0.0"
+
+date-released: 2026-05-26
